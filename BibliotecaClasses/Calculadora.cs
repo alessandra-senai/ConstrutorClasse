@@ -1,6 +1,6 @@
 ﻿namespace BibliotecaClasses
 {
-    public class Calculadora
+    public static  class Calculadora
     {
         public static int Somar(int valorA, int valorB)
         {
